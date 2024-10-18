@@ -51,6 +51,3 @@ To run this application, you need to install the following libraries:
 
 If you would like to contribute, please create a pull request. All contributions and feedback are welcome.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
